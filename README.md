@@ -9,3 +9,4 @@ sources:
 ![image](https://github.com/fmossri/azure-vision-studio-practice/assets/82612595/f7e817d5-10f7-4e89-a657-227560fbd29c)
 ![image](https://github.com/fmossri/azure-vision-studio-practice/assets/82612595/83a87b5d-0cb9-485b-a496-de1ff48e02d3)
 ![image](https://github.com/fmossri/azure-vision-studio-practice/assets/82612595/03613600-c173-4996-b642-98e29d8ba53e)
+![image](https://github.com/fmossri/azure-vision-studio-practice/assets/82612595/45fd370e-29a2-4345-8709-51eb8546638f)
