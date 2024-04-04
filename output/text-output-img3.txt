@@ -1,0 +1,175 @@
+Face #1
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #2
+Face mask: no
+Face #3
+Face mask: no
+Face #4
+Face mask: no
+Face #5
+Face mask: no
+Face #6
+Face mask: no
+Face #7
+Face mask: yes
+Face mask covering nose and mouth: yes
+Face #8
+Face mask: no
+Face #9
+Face mask: no
+Face #10
+Face mask: no
+Face #11
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #12
+Face mask: no
+Face #13
+Face mask: no
+Face #14
+Face mask: yes
+Face mask covering nose and mouth: yes
+Face #15
+Face mask: no
+Face #16
+Face mask: no
+Face #17
+Face mask: no
+Face #18
+Face mask: no
+Face #19
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #20
+Face mask: no
+Face #21
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #22
+Face mask: no
+Face #23
+Face mask: no
+Face #24
+Face mask: no
+Face #25
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #26
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #27
+Face mask: no
+Face #28
+Face mask: no
+Face #29
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #30
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #31
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #32
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #33
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #34
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #35
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #36
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #37
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #38
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #39
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #40
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #41
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #42
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #43
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #44
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #45
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #46
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #47
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #48
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #49
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #50
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #51
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #52
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #53
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #54
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #55
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #56
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #57
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #58
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #59
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #60
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #61
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #62
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #63
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #64
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #65
+Face mask: yes
+Face mask covering nose and mouth: no
