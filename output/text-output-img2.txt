@@ -1,0 +1,13 @@
+Face #1
+Face mask: no
+Face #2
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #3
+Face mask: yes
+Face mask covering nose and mouth: no
+Face #4
+Face mask: no
+Face #5
+Face mask: yes
+Face mask covering nose and mouth: yes
