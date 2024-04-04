@@ -1,7 +1,7 @@
 # azure-vision-studio-practice
 
 sources: 
-- https://www.portugal.com/op-ed/top-10-most-famous-portuguese-people/
+- https://www.portugal.com/wp-content/uploads/2022/01/zeg-young-_0KJ4A_i4CA-unsplash-696x449.jpeg
 - https://en.wikipedia.org/wiki/Podium#/media/File:2010_Olympic_ladies_podium.jpg
 - https://thumbs.dreamstime.com/z/fluminense-palmeiras-6858024.jpg?ct=jpeg
 - https://www.toledo.pr.gov.br/old/sites/default/files/images/g.r.d_02_carlos_rodrigues_.jpg
